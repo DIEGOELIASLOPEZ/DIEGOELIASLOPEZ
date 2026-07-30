@@ -41,17 +41,17 @@
 
 ---
 
-# 🙋‍♂️ Acerca de mí
+# Acerca de mí
 
 Soy **Ingeniero en Computación** apasionado por el desarrollo de software y la creación de soluciones web.
 
-💻 Me especializo en el desarrollo **Full Stack**, con mayor interés en el **Backend**, aplicando buenas prácticas para construir aplicaciones escalables y mantenibles.
+ Me especializo en el desarrollo **Full Stack**, con mayor interés en el **Backend**, aplicando buenas prácticas para construir aplicaciones escalables y mantenibles.
 
-🚀 Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases de datos y nuevas tecnologías mientras desarrollo proyectos personales.
+ Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases de datos y nuevas tecnologías mientras desarrollo proyectos personales.
 
 ---
 
-# 🛠️ Tecnologías
+#  Tecnologías
 
 
 <p>
