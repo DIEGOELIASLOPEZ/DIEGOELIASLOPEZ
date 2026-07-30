@@ -70,5 +70,5 @@ Soy **Ingeniero en Computación** apasionado por el desarrollo de software y la 
           SNAKE ANIMATION
 =========================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DIEGOELIASLOPEZ/DIEGOELIASLOPEZ/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DIEGOELIASLOPEZ/DIEGOELIASLOPEZ/snake-output/assets/snake.svg" alt="Snake animation" />
 </p>
