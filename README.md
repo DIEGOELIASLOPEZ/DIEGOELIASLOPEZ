@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola soy Elías </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ4Yjl5b2MwOXR3dTZhNTNrN3czbmQyNWd2OXJxZ2dxZGt2b2FrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)">
+<a target="_blank" href="TU_ENLACE_AQUI">
+  <img align="center" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <!--
