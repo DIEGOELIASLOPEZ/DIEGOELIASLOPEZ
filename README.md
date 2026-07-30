@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/airplane.gif" width="100%" alt="Banner Pixel Art">
+  <img src="./assets/Pixel Art GIF.gif" width="100%" alt="Banner Pixel Art">
 </p>
