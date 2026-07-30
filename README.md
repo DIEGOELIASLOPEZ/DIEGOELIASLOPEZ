@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Header Banner" src="./ezgif-com-crop.gif">
+  <img width="100%" alt="Header Banner" src="https://raw.githubusercontent.com/DIEGOELIASLOPEZ/DIEGOELIASLOPEZ/main/ezgif-com-crop.gif">
 </div>
 
 <h1 align="center">
