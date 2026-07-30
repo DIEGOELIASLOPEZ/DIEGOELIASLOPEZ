@@ -4,8 +4,8 @@
 </h1>
 
 <div align="center">
-  <a target="_blank" href="https://linkedin.com/in/tu-perfil">
-    <img height="300" width="400" alt="GIF Animado" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <a target="_blank" href="https://linkedin.com">
+    <img height="300" width="400" alt="Programando..." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ4Yjl5b2MwOXR3dTZhNTNrN3czbmQyNWd2OXJxZ2dxZGt2b2FrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 ### 📫 Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
