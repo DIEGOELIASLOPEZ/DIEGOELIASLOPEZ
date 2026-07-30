@@ -1,5 +1,10 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGkzcnhwamEwdWI3aGJraWUwcTVneWhsMmdxeWJ1c2pwdzl4MmhkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
-
+<div align="center">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4xbnR6NzZib2l0eXpqMGVwaXRlMWtxYjYzZ2E2dTg1cWF2bXFobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeSXccYMz3K4U/giphy.gif" 
+    style="width: 100%; height: 150px; object-fit: cover; object-position: center;" 
+    alt="Pixel City Banner"
+  />
+</div>
 <h1 align="center">
   <b>¡Hola! Soy Elías</b> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
