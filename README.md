@@ -5,7 +5,7 @@
 
 <div align="center">
   <a target="_blank" href="https://linkedin.com">
-    <img height="300" width="400" alt="Programando..." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ4Yjl5b2MwOXR3dTZhNTNrN3czbmQyNWd2OXJxZ2dxZGt2b2FrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
+    <img height="300" width="500" alt="Programando..." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ4Yjl5b2MwOXR3dTZhNTNrN3czbmQyNWd2OXJxZ2dxZGt2b2FrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
   </a>
 </div>
 
