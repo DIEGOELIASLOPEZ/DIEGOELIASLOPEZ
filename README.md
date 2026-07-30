@@ -66,10 +66,9 @@ Soy **Ingeniero en Computación** apasionado por el desarrollo de software y la 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<!-- ===========================
+          SNAKE ANIMATION
+=========================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DIEGOELIASLOPEZ/DIEGOELIASLOPEZ/snake-output/snake.svg" alt="Snake animation" />
+</p>
