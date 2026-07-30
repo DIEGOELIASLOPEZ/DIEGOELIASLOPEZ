@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="ezgif-com-crop.gif" width="100%" alt="Header Banner">
+  <img src="./assets/airplane.gif" width="100%" alt="Banner Pixel Art">
 </p>
